@@ -1,6 +1,6 @@
 {
   "name": "Gee mail",
   "tagline": "",
-  "body": "\r\n<img src=\"http://chuantu.biz/t5/44/1481603509x851434792.png\" alt=\"hi\" class=\"inline\" /> \r\n#  **Hi! Here is gee_mail project!**\r\n<br>Gee_mail provide a local e-mail to user to sign-in or register. When a user registers get their username and password. When a user logs in ask for username and validate password. If login fails, choose your response. Once logged in, tell them the number of messages they have, list the users that have sent them a message. \r\n<br>We use hash(in C++) and MD5(in JAVA) to encrypt the information.\r\n<br>If you want to see **\"README\"**, please click **\"View on GitHub\"** on the left side.\r\n",
+  "body": "\r\n<img src=\"https://postimg.org/image/dpb85s11j/\" alt=\"hi\" class=\"inline\" /> \r\n#  **Hi! Here is gee_mail project!**\r\n<br>Gee_mail provide a local e-mail to user to sign-in or register. When a user registers get their username and password. When a user logs in ask for username and validate password. If login fails, choose your response. Once logged in, tell them the number of messages they have, list the users that have sent them a message. \r\n<br>We use hash(in C++) and MD5(in JAVA) to encrypt the information.\r\n<br>If you want to see **\"README\"**, please click **\"View on GitHub\"** on the left side.\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
